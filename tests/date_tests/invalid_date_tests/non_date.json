@@ -1,0 +1,13 @@
+{
+  "edtf": null,
+  "human": {
+    "en": "Not a date"
+  },
+  "preferred_human": {
+    "en": null
+  },
+  "earliest_possible_day": null,
+  "latest_possible_day":   null,
+  "description":  "A non-date string",
+  "author": "David Newbury"
+}

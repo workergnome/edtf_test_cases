@@ -1,0 +1,29 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "EDTF Test Case",
+    "description": "A test case for converting human readable date strings into EDTF, and vice vera.",
+    "type": "object",
+    "properties": {
+      "description": {
+        "description": "An explanation of the test case.",  
+        "type": "string"
+      },
+      "author": {
+        "description": "The name of the person responsible for creating this test case.",  
+        "type": "string"
+      },
+      "edtf": {
+        "description": "A valid EDTF date",
+        "type": "string"
+      },
+      "human": {
+        "type": "object",
+        "minProperties": 1        
+      },
+      "en": {
+        "description": "A human readable date in English",
+        "type": "string"
+      }
+    },
+   "required": ["edtf", "en"]
+} 

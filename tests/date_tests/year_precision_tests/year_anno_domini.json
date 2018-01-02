@@ -1,0 +1,13 @@
+{
+  "edtf": "0010-uu-uu",
+  "human": {
+    "en": "10 ad"
+  },
+  "preferred_human": {
+    "en": "10 CE"
+  },
+  "earliest_possible_day": "0010-01-01",
+  "latest_possible_day":   "0010-12-31",
+  "description":  "Some day in 10 ad (anno Domini)",
+  "author": "David Newbury"
+}

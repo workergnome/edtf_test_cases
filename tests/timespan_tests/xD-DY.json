@@ -1,0 +1,14 @@
+{
+  "edtf": "unknown/1990-12-31",
+  "edtf_definite": "1980-01-01/1980-12-31",
+  "human": {
+    "en": "throughout 1980 until no later than 1990"
+  },
+  "earliest_possible_day": null,
+  "earliest_definite_day": "1980-01-01",
+  "latest_definite_day": "1980-12-31",
+  "latest_possible_day": "1990-12-31",
+
+  "description":  "A interval with known definite span and a latest possible date",
+  "author": "David Newbury"
+}

@@ -1,0 +1,13 @@
+{
+  "edtf": "-03uu-uu-uu",
+  "human": {
+    "en": "the 4th century BC"
+  },
+  "preferred_human": {
+    "en": "the 4th century BCE"
+  },
+  "earliest_possible_day": "-0399-01-01",
+  "latest_possible_day":   "-0300-12-31",
+  "description":  "a century with BC era",
+  "author": "David Newbury"
+}

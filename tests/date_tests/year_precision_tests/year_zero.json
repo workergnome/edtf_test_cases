@@ -1,0 +1,10 @@
+{
+  "edtf": "0000-uu-uu",
+  "human": {
+    "en": "1 BCE"
+  },
+  "earliest_possible_day": "0000-01-01",
+  "latest_possible_day":   "0000-12-31",
+  "description":  "year zero",
+  "author": "David Newbury"
+}

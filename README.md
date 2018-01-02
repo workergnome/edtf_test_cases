@@ -1,2 +1,4 @@
 # edtf_test_cases
-A collection of test cases for parsing EDTF into and from human readable strings
+
+This is a collection of test cases for parsing EDTF into and out of human readable strings.  Each test case is a single file, defined against a [JSON Schema](schema/edta_test_schema.json).
+

@@ -1,0 +1,10 @@
+{
+  "edtf": "0900-uu-uu",
+  "human": {
+    "en": "900 CE"
+  },
+  "earliest_possible_day": "0900-01-01",
+  "latest_possible_day":   "0900-12-31",
+  "description":  "Some day in 900 CE (common era)",
+  "author": "David Newbury"
+}

@@ -1,0 +1,14 @@
+{
+  "edtf": "unknown/1980-10-17",
+  "edtf_definite": "1980-07-15/1980-07-15",
+  "human": {
+    "en": "until sometime between July 15, 1980 and October 17, 1980"
+  },
+  "earliest_possible_day":  null,
+  "earliest_definite_day":  "1980-07-15",
+  "latest_definite_day": "1980-07-15",
+  "latest_possible_day": "1980-10-17",
+
+  "description":  "A interval with a both ending dates and no beginning dates",
+  "author": "David Newbury"
+}

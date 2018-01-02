@@ -1,0 +1,14 @@
+{
+  "edtf": "unknown/unknown",
+  "edtf_definite": "1980-10-17/1980-10-17",
+  "human": {
+    "en": "by October 17, 1980"
+  },
+  "earliest_possible_day": null,
+  "earliest_definite_day": "1980-10-17",
+  "latest_definite_day": "1980-10-17",
+  "latest_possible_day": null,
+
+  "description":  "A interval with only an earliest **definite** date",
+  "author": "David Newbury"
+}

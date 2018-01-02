@@ -1,0 +1,14 @@
+{
+  "edtf": "unknown/unknown",
+  "edtf_definite": "1980-01-01/1980-12-31",
+  "human": {
+    "en": "throughout 1980"
+  },
+  "earliest_possible_day": null,
+  "earliest_definite_day": "1980-01-01",
+  "latest_definite_day": "1980-12-31",
+  "latest_possible_day": null,
+
+  "description":  "A interval with a single definite date",
+  "author": "David Newbury"
+}

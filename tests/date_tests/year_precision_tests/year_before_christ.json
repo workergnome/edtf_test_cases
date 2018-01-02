@@ -1,0 +1,13 @@
+{
+  "edtf": "-0009-uu-uu",
+  "human": {
+    "en": "10 BC"
+  },
+  "preferred_human": {
+    "en": "10 BCE"
+  },
+  "earliest_possible_day": "-0009-01-01",
+  "latest_possible_day":   "-0009-12-31",
+  "description":  "some day in 10 bc (before Christ)",
+  "author": "David Newbury"
+}

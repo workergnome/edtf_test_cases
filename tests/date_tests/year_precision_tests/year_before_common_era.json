@@ -1,0 +1,10 @@
+{
+  "edtf": "-5999-uu-uu",
+  "human": {
+    "en": "6000 BCE"
+  },
+  "earliest_possible_day": "-5999-01-01",
+  "latest_possible_day":   "-5999-12-31",
+  "description":  "Some day in 6000 BCE (before common era)",
+  "author": "David Newbury"
+}

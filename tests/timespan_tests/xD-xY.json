@@ -1,0 +1,14 @@
+{
+  "edtf": "unknown/1980-10-17",
+  "edtf_definite": "1980-07-15/1980-07-15",
+  "human": {
+    "en": "by July 15, 1980 until no later than October 17, 1980"
+  },
+  "earliest_possible_day": null,
+  "earliest_definite_day": "1980-07-15",
+  "latest_definite_day": "1980-07-15",
+  "latest_possible_day": "1980-10-17",
+
+  "description":  "A interval with an earliest definite date and a latest possible date",
+  "author": "David Newbury"
+}

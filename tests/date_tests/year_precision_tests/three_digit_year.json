@@ -1,0 +1,13 @@
+{
+  "edtf": "0860-uu-uu",
+  "human": {
+    "en": "860"
+  },
+  "preferred_human": {
+    "en": "860 CE"
+  },
+  "earliest_possible_day": "0860-01-01",
+  "latest_possible_day":   "0860-12-31",
+  "description":  "A three-digit year",
+  "author": "David Newbury"
+}

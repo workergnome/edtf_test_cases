@@ -1,0 +1,14 @@
+{
+  "edtf": "unknown/1997-12-31",
+  "edtf_definite": "1995-12-31/1996-01-01",
+  "human": {
+    "en": "by 1995 until sometime between 1996 and 1997"
+  },
+  "earliest_possible_day": null,
+  "earliest_definite_day": "1995-12-31",
+  "latest_definite_day": "1996-01-01",
+  "latest_possible_day": "1997-12-31",
+
+  "description":  "A interval with two known definite dates and a latest possible date",
+  "author": "David Newbury"
+}

@@ -1,0 +1,14 @@
+{
+  "edtf": "1995-01-01/1996-12-31",
+  "edtf_definite": "1996-01-01/1996-01-01",
+  "human": {
+    "en": "after 1995 until 1996"
+  },
+  "earliest_possible_day": "1995-01-01",
+  "earliest_definite_day": "1996-01-01",
+  "latest_definite_day": "1996-01-01",
+  "latest_possible_day": "1996-12-31",
+
+  "description":  "A interval with known definite span and a latest possible date",
+  "author": "David Newbury"
+}

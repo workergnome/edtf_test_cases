@@ -1,0 +1,13 @@
+{
+  "edtf": "18uu-uu-uu",
+  "human": {
+    "en": "the 19th century AD"
+  },
+  "preferred_human": {
+    "en": "the 19th century"
+  },
+  "earliest_possible_day": "1800-01-01",
+  "latest_possible_day":   "1899-12-31",
+  "description":  "a century with an AD era",
+  "author": "David Newbury"
+}

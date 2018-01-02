@@ -1,0 +1,10 @@
+{
+  "edtf": "1860-uu-uu",
+  "human": {
+    "en": "1860"
+  },
+  "earliest_possible_day": "1860-01-01",
+  "latest_possible_day":   "1860-12-31",
+  "description":  "A four-digit year",
+  "author": "David Newbury"
+}

@@ -1,0 +1,14 @@
+{
+  "edtf": "1980-10-17/1980-10-17",
+  "edtf_definite": "1980-10-17/1980-10-17",
+  "human": {
+    "en": "on October 17, 1980"
+  },
+  "earliest_possible_day":  "1980-10-17",
+  "earliest_definite_day":  "1980-10-17",
+  "latest_definite_day":    "1980-10-17",
+  "latest_possible_day":    "1980-10-17",
+
+  "description":  "A interval of a single day",
+  "author": "David Newbury"
+}

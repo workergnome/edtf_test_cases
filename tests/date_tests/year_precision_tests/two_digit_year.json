@@ -1,0 +1,13 @@
+{
+  "edtf": "0086-uu-uu",
+  "human": {
+    "en": "86"
+  },
+  "preferred_human": {
+    "en": "86 CE"
+  },
+  "earliest_possible_day": "0086-01-01",
+  "latest_possible_day":   "0086-12-31",
+  "description":  "A two-digit year",
+  "author": "David Newbury"
+}

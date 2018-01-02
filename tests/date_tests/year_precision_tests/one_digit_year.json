@@ -1,0 +1,13 @@
+{
+  "edtf": "0008-uu-uu",
+  "human": {
+    "en": "8"
+  },
+  "preferred_human": {
+    "en": "8 CE"
+  },
+  "earliest_possible_day": "0008-01-01",
+  "latest_possible_day":   "0008-12-31",
+  "description":  "A one-digit year",
+  "author": "David Newbury"
+}
